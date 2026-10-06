@@ -246,4 +246,4 @@ This repository serves as the official landing page for Heroes of Newerth. The s
 **Get the most recent version of Heroes of Newerth today!**
 
 ---
-**Last updated:** 2026-10-06 11:45:20 UTC
+**Last updated:** 2026-10-06 17:53:07 UTC
